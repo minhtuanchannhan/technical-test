@@ -1,4 +1,4 @@
-# TECHNICAL TEST
+# Technical Test
 
 Summary some PHP technical test.
 
